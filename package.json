@@ -1,0 +1,12 @@
+{
+  "name": "graphql-course-23",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/immichjs/graphql-course-23.git",
+  "author": "Michel França <fr.mich17@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.10.3",
+    "graphql": "^16.6.0"
+  }
+}
